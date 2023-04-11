@@ -26,11 +26,11 @@ Business
 |Number of employee | 50
 |Each employee has | 01 PC + 01 IP Phone
 |The department has | 1 server
-|Engineering|`
+|Engineering| |
 |Number of employee | 30|
 |Each employee has | 01 PC + 01 IP Phone|
 |The department has | 1 server|
-|Human Resources|`
+|Human Resources| |
 |Number of employee | 10|
 |Each employee has | 01 PC + 01 IP Phone|
 |The department has | 2 servers|
