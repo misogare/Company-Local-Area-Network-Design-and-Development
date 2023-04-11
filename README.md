@@ -23,17 +23,17 @@ Each employee has | 01 PC + 01 IP Phone
 The department has | 1 server
 Business
 | ------------- | ------------- |
-Number of employee | 50
-Each employee has | 01 PC + 01 IP Phone
-The department has | 1 server
-Engineering
-Number of employee | 30
-Each employee has | 01 PC + 01 IP Phone
-The department has | 1 server
-Human Resources
-Number of employee | 10
-Each employee has | 01 PC + 01 IP Phone
-The department has | 2 servers
+|Number of employee | 50
+|Each employee has | 01 PC + 01 IP Phone
+|The department has | 1 server
+|Engineering|`
+|Number of employee | 30|
+|Each employee has | 01 PC + 01 IP Phone|
+|The department has | 1 server|
+|Human Resources|`
+|Number of employee | 10|
+|Each employee has | 01 PC + 01 IP Phone|
+|The department has | 2 servers|
 
 ## Local Area Network Technologies
     Several local area network technologies will be implemented to ensure the smooth functioning of the network:
