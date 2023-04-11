@@ -55,5 +55,6 @@ The department has | 1 server
    
 ## Conclusion
     This project aims to design and build a local area network for a company that has recently undergone restructuring to meet their business requirements. The network will cover several buildings with different departments, and will be implemented and configured using several local area network technologies. This project will help the company to improve their network infrastructure, leading to better communication, collaboration, and productivity.
-    ![image](https://user-images.githubusercontent.com/130363781/231098715-30bad815-adab-446d-a39a-78d5f1b35a00.png)
+    
 
+![image](https://user-images.githubusercontent.com/130363781/231098715-30bad815-adab-446d-a39a-78d5f1b35a00.png)
