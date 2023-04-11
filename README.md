@@ -11,22 +11,22 @@ _Building A: Hosts Human Resources and Business Departments
 _Building K: Hosts main servers of all departments
 ## IP Address Planning
 **IP address planning is a critical component of designing and building a local area network. The following IP address ranges will be used for each building:**
-Sport
+| Sport |  |
 | ------------- | ------------- |
 Number of employee | 100
 Each employee has | 01 PC + 01 IP Phone
 The department has | 1 server
-Health
+| Health |  |
 | ------------- | ------------- |
 Number of employee | 50
 Each employee has | 01 PC + 01 IP Phone
 The department has | 1 server
-Business
+| Business | |
 | ------------- | ------------- |
 |Number of employee | 50
 |Each employee has | 01 PC + 01 IP Phone
 |The department has | 1 server
-|Engineering| |
+|Engineering| | |
 |Number of employee | 30|
 |Each employee has | 01 PC + 01 IP Phone|
 |The department has | 1 server|
