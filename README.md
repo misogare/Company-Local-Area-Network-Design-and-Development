@@ -4,11 +4,11 @@
 ## Physical Organization
     The physical organization of the network is as follows:
 
- _Building L: Hosts Sport and Health Departments
- _Building M: Hosts Sport and Health Departments
- _Building G: Hosts Business and Engineering Departments
- _Building A: Hosts Human Resources and Business Departments
- _Building K: Hosts main servers of all departments
+    _Building L: Hosts Sport and Health Departments
+    _Building M: Hosts Sport and Health Departments
+    _Building G: Hosts Business and Engineering Departments
+    _Building A: Hosts Human Resources and Business Departments
+    _Building K: Hosts main servers of all departments
 ## IP Address Planning
 **IP address planning is a critical component of designing and building a local area network. The following IP address ranges will be used for each building:**
 | Sport |  |
