@@ -45,9 +45,9 @@ The department has | 1 server
 ## Implementation and Configuration
     A local area network of medium complexity will be implemented and configured for each building using Cisco Packet Tracer. The configurations will include:
 
-_Configuring the routers to connect the buildings to each other and to the internet.
-_Configuring the switches to connect all devices within each building to each other and to the routers.
-_Assigning IP addresses to all devices within each building.
-_Configuring the necessary routing protocols to ensure that all devices within the network can communicate with each other.
+   _Configuring the routers to connect the buildings to each other and to the internet.
+   _Configuring the switches to connect all devices within each building to each other and to the routers.
+   _Assigning IP addresses to all devices within each building.
+   _Configuring the necessary routing protocols to ensure that all devices within the network can communicate with each other.
 ## Conclusion
     This project aims to design and build a local area network for a company that has recently undergone restructuring to meet their business requirements. The network will cover several buildings with different departments, and will be implemented and configured using several local area network technologies. This project will help the company to improve their network infrastructure, leading to better communication, collaboration, and productivity.
